@@ -1,2 +1,2 @@
-# shopping-list-
+# shopping-list
 Simple shopping list
